@@ -1,0 +1,6 @@
+{
+  "name": "Portal Tugasan Pelajar & Galeri Web",
+  "description": "Portal penyerahan tugasan web dan slaid pelajar dengan penjana thumbnail automatik, galeri showcase, dan integrasi Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
